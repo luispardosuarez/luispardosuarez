@@ -8,8 +8,6 @@
 
 ### <div align="center">👋 Welcome to my GitHub world, where I'm embarking on a trip from HR to Full Stack Development 🚀</div>  
 
-<br>
-
 
 🌱 I'm currently learning Full Stack Development through a bootcamp at Factoria F5. 👨‍🎓  
   
