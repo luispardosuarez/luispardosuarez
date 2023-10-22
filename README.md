@@ -6,7 +6,7 @@
 # <div align="center">Hey there, I'm Luis! 🧿</div>  
   
 
-### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from HR to Full Stack Development 🚀. </div>  
+### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from Human Resources to Full Stack Development 🚀. </div>  
 
 <br>
 
