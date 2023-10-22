@@ -6,11 +6,11 @@
 # <div align="center">Hey there, I'm Luis! 🧿</div>  
   
 
-### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from Human Resources to Full Stack Development 🚀. </div>  
+### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from Human Resources to Full Stack Development 🚀 </div>  
 
 <br>
 
-🌱 I'm currently learning Full Stack Development through a top-notch bootcamp at Factoria F5. 👨‍🎓  
+🌱 I'm currently learning Full Stack Development through a top-notch bootcamp at Factoria F5 👨‍🎓  
   
 
 👁️ Feel free to explore my repositories, and let's code our way through this exciting adventure! 💻  
@@ -19,7 +19,7 @@
 🧐 Learning to code, but HR questions welcome! 🤝  
   
 
-🎢 Fun Fact: I'm a roller coaster enthusiast! 🎡  
+🎢 Being a roller coaster fan, I reckon coding is just as heart-pounding as a high-speed ride 🎡  
   
 <br>
 
