@@ -19,7 +19,7 @@
 🧐 Learning to code, but HR questions welcome! 🤝  
   
 
-🎢 Being a roller coaster fan, I reckon coding is just as heart-pounding as a high-speed ride. 🎡  
+🎢 Fun fact: I'm a roller coaster enthusiast! 🎡  
   
 <br>
 
