@@ -10,7 +10,7 @@
 
 <br>
 
-🌱 I'm currently learning Full Stack Development & Cloud AWS through a top-notch bootcamp at Factoria F5. 👨‍🎓  
+🌱 I'm currently learning full stack development & cloud computing through a top-notch bootcamp at Factoria F5. 👨‍🎓  
   
 
 👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 💻  
