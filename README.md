@@ -6,11 +6,11 @@
 # <div align="center">🧿 Hey there, I'm Luis! 🧿</div>  
   
 
-### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from Human Resources to Full Stack Development. 🚀 </div>  
+### <div align="center"> 👋 Welcome to my gitHubWorld, where I'm embarking on a cracking trip from Human Resources to Full Stack Development and Cloud Computing. 🚀 </div>  
 
 <br>
 
-🌱 I'm currently learning full stack development & cloud computing through a top-notch bootcamp at Factoria F5. 👨‍🎓  
+🌱 I'm currently learning full stack development & cloud AWS through a top-notch bootcamp at Factoria F5. 👨‍🎓  
   
 
 👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 💻  
