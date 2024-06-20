@@ -10,15 +10,14 @@
 
 <br>
 
-🌱 I've recently completed a top-notch bootcamp at Factoria F5, where I honed my skills in full stack development and AWS cloud technologies. 👨‍🎓  
-  
+🌱 I've recently completed a top-notch bootcamp at Factoria F5, where I honed my skills in full stack development and AWS cloud technologies. 👨‍🎓 
 
-👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 💻  
+🌟 I am currently starting in the tech sector as a Software Engineer with Capgemini. 💻
   
-
+👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 🌍 
+  
 🧐 Learning to code, but HR questions welcome! 🤝  
   
-
 🎢 Fun fact: I'm a roller coaster enthusiast! 🎡  
   
 <br>
