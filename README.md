@@ -12,7 +12,7 @@
 
 🌱 I've recently completed a top-notch bootcamp at Factoria F5, where I honed my skills in full stack development and AWS cloud technologies. 👨‍🎓 
 
-🌟 I am currently starting in the tech sector as a Node backend developer with The Cocktail. 💻
+🌟 I am currently starting in the tech sector as a Node software engineer with VML The Cocktail. 💻
   
 👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 🌍 
   
