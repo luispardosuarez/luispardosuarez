@@ -10,15 +10,15 @@
 
 <br>
 
-🌱 I've recently completed a top-notch bootcamp at Factoria F5, where I honed my skills in full stack development and AWS cloud technologies. 👨‍🎓 
+🌱 I trained at Factoría F5, completing an intensive full stack development bootcamp where I honed my skills in HTML/CSS, JavaScript, TypeScript, Java, Spring, and AWS cloud technologies. 👨‍🎓
 
-🌟 I am currently starting in the tech sector as a Node software engineer with VML The Cocktail. 💻
-  
-👁️ Feel free to explore my repositories, and let's code our way through this fantastic adventure! 🌍 
-  
-🧐 Learning to code, but HR questions welcome! 🤝  
-  
-🎢 Fun fact: I'm a roller coaster enthusiast! 🎡  
+🚀 Now building scalable backend services as a Node.js software engineer at VML The Cocktail, using TypeScript and NestJS to develop clean and efficient APIs. 💻
+
+👁️ Feel free to explore my repositories — let’s code our way through this fantastic adventure! 🌍
+
+🧐 Learning to code, but HR questions are always welcome! 🤝
+
+🎢 Fun fact: I’m a roller coaster enthusiast! 🎡
   
 <br>
 
